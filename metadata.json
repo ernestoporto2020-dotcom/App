@@ -1,0 +1,6 @@
+{
+  "name": "FormaAI",
+  "description": "Personal trainer inteligente com IA para treinos personalizados, anamnese clínica, execução guiada e evolução de cargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
